@@ -1,0 +1,23 @@
+.blue-ring {
+  border: 1.75rem solid hsl(202, 100%, 40%);
+}
+
+.black-ring {
+  border: 1.75rem solid black;
+}
+
+.red-ring {
+  border: 1.75rem solid hsl(351, 87%, 56%);
+}
+
+.green-ring {
+  border: 1.75rem solid hsl(147, 94%, 34%);
+}
+
+.lightblue-ring {
+  border: 1.75rem solid hsl(181, 76%, 80%);
+}
+
+.yellow-ring {
+  border: 1.75rem solid hsl(42, 98%, 51%);
+}
