@@ -1,3 +1,7 @@
+:root {
+  background-color: hsl(53, 100%, 97%);
+}
+
 .blue-ring {
   border: 1.75rem solid hsl(202, 100%, 40%);
 }
@@ -20,4 +24,12 @@
 
 .yellow-ring {
   border: 1.75rem solid hsl(42, 98%, 51%);
+}
+
+.origin-top-center {
+  transform-origin: top center;
+}
+
+.origin-bottom-center {
+  transform-origin: bottom center;
 }
